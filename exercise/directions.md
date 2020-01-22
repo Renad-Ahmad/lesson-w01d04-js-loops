@@ -28,9 +28,9 @@ for (let i = 10; i >= 0; i--){
 ## Print every number from 4 to -16
 
 ```
-for (let i = 4; i <= 16; i++){
+for (let i = 4; i >= -16; i--){
   console.log(i);
-}```
+}``
 
 <br>
 
